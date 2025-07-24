@@ -10,3 +10,5 @@ for ch in account_number:
     temp += ch
     
 print(temp)
+
+# 테스트용 으로 내용을 변경
